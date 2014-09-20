@@ -1,10 +1,10 @@
 picmoment
 =========
-<h3>Documentação(Manual) - Picture Moment</h3>
+<b>Documentação(Manual) - Picture Moment</b>
 <!-- Date create manual - 09/20/2014 12:23:31PM -->
 
 
-/**** Intro Paginas ****/
+<h4>/**** Intro Paginas ****/</h4>
 
 -- <b>Page(Inicio)</b> - Exibe postagens(Moments) encontrada em toda a rede...<br>
 -- <b>Page(Sou Fã)</b> - Exibe postagens(Moments) somente dos usuários de qual você é fã...<br>
@@ -13,11 +13,11 @@ picmoment
 -- <b>Page(Mensagens)</b> - Exibe mensagens enviadas por outro usuário e mensagens que você enviou...<br>
 -- <b>Page(Admin)</b> - Pagina em desenvolvimento para usuário administrador da rede gerenciar os usuários,postagens(Moments), comentario, acesso da rede e entre outros ...<br>
 
-/**** Funções em geral ****/
+<h4>/**** Funções em geral ****/</h4>
 
 -- <b>Comentar</b> - Funciona como direito de replica de outros usuários a um determinado post..<br>
 -- <b>Virar Fã</b> - Opção funciona como assinatura de um 'feed', você vira fã de um usuário e passa a receber seus post's(Moments) separados na pagina (Sou Fã)...<br>
--- <b>Aprovar/Reprovar - Opção para o usuário avaliar o post(Moment) em questão, dependendo da quantidade de avaliações determinado post pode para no nosso 'Top 10'...<br>
+-- <b>Aprovar/Reprovar</b> - Opção para o usuário avaliar o post(Moment) em questão, dependendo da quantidade de avaliações determinado post pode para no nosso 'Top 10'...<br>
 -- <b>Top 10</b> - Função na qual mostra os post mais bem avaliados (Top 10 Beloved) ou não (Top 10 Hated)..<br>
 -- <b>Postar</b> - Função na qual você posta uma determinada arte, foto, momento pessoal ou simplesmente uma imagem qualquer junto a uma legenda com limite de caracteres (50) para todos conectado a rede possam ver. Essa opção aceita imagens GIF(Imagens animadas)...<br>
 -- <b>Chat de discussão</b> - Função que faz com que o dono de determinado post(Moment) crie uma sala de discussão para a arte em questão, quando os outros usuários clicam no post(Moment) que está com sala de discussão aberta, aparece opção para eles entrarem na sala. A sala contem o dono da arte, sua legenda e tempo de duração, cada sala tem 1 hora de duração com conversa em aberto e todos tem acesso ...<br>
